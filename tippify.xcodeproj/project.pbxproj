@@ -15,6 +15,7 @@
 		385023CB250EDA7A00D366A8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 385023C9250EDA7A00D366A8 /* LaunchScreen.storyboard */; };
 		385023D6250EDA7A00D366A8 /* tippifyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 385023D5250EDA7A00D366A8 /* tippifyTests.swift */; };
 		385023E1250EDA7A00D366A8 /* tippifyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 385023E0250EDA7A00D366A8 /* tippifyUITests.swift */; };
+		385023F9250EEAD500D366A8 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 385023F8250EEAD500D366A8 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		385023DC250EDA7A00D366A8 /* tippifyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tippifyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		385023E0250EDA7A00D366A8 /* tippifyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tippifyUITests.swift; sourceTree = "<group>"; };
 		385023E2250EDA7A00D366A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		385023F8250EEAD500D366A8 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				385023BE250EDA7900D366A8 /* AppDelegate.swift */,
 				385023C0250EDA7900D366A8 /* SceneDelegate.swift */,
 				385023C2250EDA7900D366A8 /* ViewController.swift */,
+				385023F8250EEAD500D366A8 /* SettingsViewController.swift */,
 				385023C4250EDA7900D366A8 /* Main.storyboard */,
 				385023C7250EDA7A00D366A8 /* Assets.xcassets */,
 				385023C9250EDA7A00D366A8 /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 				385023C3250EDA7900D366A8 /* ViewController.swift in Sources */,
 				385023BF250EDA7900D366A8 /* AppDelegate.swift in Sources */,
 				385023C1250EDA7900D366A8 /* SceneDelegate.swift in Sources */,
+				385023F9250EEAD500D366A8 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
